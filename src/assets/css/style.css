@@ -9,7 +9,7 @@ body{
 }
 .page{
 	background-color: #FFF;
-	margin:0 auto;
+	margin:0 auto 30px;
 	max-width: 790px;
 	min-height: 1028px;
 	box-shadow: 0 2px 4px rgba(0,0,0,.3);

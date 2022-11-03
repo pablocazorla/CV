@@ -21,8 +21,9 @@ const data = {
       es: "Sobre mí",
     },
     desc: {
-      en: "I'm UI and web designer, UX analyst, web developer and web illustrator. I love web illustration, interactive apps, user experience, web responsive, infographics, animation and everything about digital imaging.",
-      es: "I'm UI and web designer, UX analyst, web developer and web illustrator. I love web illustration, interactive apps, user experience, web responsive, infographics, animation and everything about digital imaging.",
+      en: "I'm Front-End/UI developer, UX analyst, web designer and illustrator. I love interactive apps, user experience, web responsive, infographics, animation and everything about digital imaging.",
+
+      es: "Soy desarrollador Front-End/UI, analista de usabilidad, diseñador web e ilustrador. Me encantan las aplicaciones interactivas, la experiencia del usuario, infografías, la animación y todo lo relacionado con el mundo digital.",
     },
   },
 

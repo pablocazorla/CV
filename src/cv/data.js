@@ -25,6 +25,7 @@ const data = {
       es: "I'm UI and web designer, UX analyst, web developer and web illustrator. I love web illustration, interactive apps, user experience, web responsive, infographics, animation and everything about digital imaging.",
     },
   },
+
   work: {
     title: {
       en: "Work Experience",

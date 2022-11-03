@@ -125,6 +125,10 @@ const data = {
         value: 95,
       },
       {
+        title: "NEXT JS",
+        value: 90,
+      },
+      {
         title: "NODE JS",
         value: 85,
       },

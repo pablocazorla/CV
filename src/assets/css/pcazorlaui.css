@@ -1,17 +1,25 @@
 h2 {
   font-size: 14pt;
-  color:#0fc4dd;
+  color: #008394;
 }
 
-h3{
-	color:#0fc4dd;
+h3 {
+  color: #008394;
 }
 .basic-data-list li .icon {
-	color:#0fc4dd;
+  color: #008394;
 }
-.summary-content {  left: 45%;right: 4%;font-weight: bold !important;}
-.summary-content h1{  font-weight: bold !important;}
-.summary-content h2{  font-weight: bold !important;}
+.summary-content {
+  left: 45%;
+  right: 4%;
+  font-weight: bold !important;
+}
+.summary-content h1 {
+  font-weight: bold !important;
+}
+.summary-content h2 {
+  font-weight: bold !important;
+}
 
 .resume .partial1 {
   margin-bottom: 3em;
@@ -22,48 +30,49 @@ h3{
 .resume .partial3 {
   padding-left: 2em;
 }
-.laboral{
-	margin-bottom: 3em
+.laboral {
+  margin-bottom: 3em;
 }
-.skills{
-margin-bottom: 2em;
+.skills {
+  margin-bottom: 2em;
 }
-.skills li{
-	height: 20px;
+.skills li {
+  height: 20px;
 }
-.skills li h5{
-	font-size: 9pt;
-	height: 20px;
-	line-height: 20px;
-	float: left;
-	width: 36%;
+.skills li h5 {
+  font-size: 9pt;
+  height: 20px;
+  line-height: 20px;
+  float: left;
+  width: 36%;
 }
-.skills li .bar{
-	height: 10px;
-	margin-top: 5px;
-	float: left;
-	width: 64%;
-	position: relative;
+.skills li .bar {
+  height: 10px;
+  margin-top: 5px;
+  float: left;
+  width: 64%;
+  position: relative;
 }
-.skills li .bar div{
-	position: absolute;
-	top: 0;
-	left: 0;
-	bottom: 0;
-	background-color: #0fc4dd;
-	box-shadow: inset 0 0 0 10px #0fc4dd;
-	opacity: 0.6;
+.skills li .bar div {
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  background-color: #008394;
+  box-shadow: inset 0 0 0 10px #008394;
+  opacity: 0.6;
 }
 
 @media print {
-  footer{
-	  margin-top: 50px;
-		background-color: transparent
-	}
+  footer {
+    margin-top: 50px;
+    background-color: transparent;
+    display: none;
+  }
 }
 .skills li h5 {
-	width: 38%;
+  width: 38%;
 }
 .skills li .bar {
-	width: 62%;
+  width: 62%;
 }

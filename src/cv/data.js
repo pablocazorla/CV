@@ -21,9 +21,9 @@ const data = {
       es: "Sobre mí",
     },
     desc: {
-      en: "I'm Front-End/UI developer, UX analyst, web designer and illustrator. I love interactive apps, user experience, web responsive, infographics, animation and everything about digital imaging.",
+      en: "I am a specialized Front-End and UI developer with solid experience in JavaScript, React JS, Next JS, HTML, and CSS. Additionally, I am a UX analyst and web/mobile designer, committed to creating exceptional user experiences and innovative web applications.",
 
-      es: "Soy desarrollador Front-End/UI, analista de usabilidad, diseñador web e ilustrador. Me encantan las aplicaciones interactivas, la experiencia del usuario, infografías, la animación y todo lo relacionado con el mundo digital.",
+      es: "Soy un desarrollador especializado en Front-End y UI, con una sólida experiencia en JavaScript, React JS, Next JS, HTML y CSS. Además, soy analista de UX y diseñador web/móvil, comprometido con la creación de experiencias de usuario excepcionales y aplicaciones web innovadoras.",
     },
   },
 
@@ -120,10 +120,18 @@ const data = {
       },
       {
         title: "Javascript",
-        value: 98,
+        value: 100,
       },
       {
         title: "REACT JS",
+        value: 100,
+      },
+      {
+        title: "Tailwind CSS",
+        value: 100,
+      },
+      {
+        title: "SASS",
         value: 95,
       },
       {
@@ -134,10 +142,7 @@ const data = {
         title: "NODE JS",
         value: 85,
       },
-      {
-        title: "SASS / LESS",
-        value: 90,
-      },
+
       {
         title: "Wordpress",
         value: 70,
@@ -149,14 +154,6 @@ const data = {
       {
         title: "GIT",
         value: 65,
-      },
-      {
-        title: "Adobe Photoshop",
-        value: 100,
-      },
-      {
-        title: "Adobe Illustrator",
-        value: 90,
       },
     ],
   },
@@ -172,7 +169,8 @@ const data = {
           es: "Desarrollo de UI/Front-end",
         },
         desc: {
-          en: "Front-end development, HTML5/CSS3 PWA, Canvas API and SVG, JS libraries (MVVM) like React JS, apps mobile, CMS (eg: Wordpress), SEO and web analytics.",
+          en: "Languages and Technologies: JavaScript, CSS, HTML, ReactJS, NextJS, Tailwind CSS, SASS, NodeJS, jQuery, Canvas HTML, Bootstrap, WordPress, SQL, SEO.",
+          es: "Lenguajes y Tecnologías: JavaScript, CSS, HTML, ReactJS, NextJS, Tailwind CSS, SASS, NodeJS, jQuery, Canvas HTML, Bootstrap, WordPress, SQL, SEO.",
         },
       },
       {
@@ -181,7 +179,8 @@ const data = {
           es: "Diseño y usabilidad web",
         },
         desc: {
-          en: "Logos and icons, branding and advertising, presentations, infographics and process illustration, usability improve, A/B testing, information architecture, statistics and usage analysis.",
+          en: "Analysis and Tools: UX analysis, creating mockups, developing wireframes with Figma, Affinity Designer, Sketch, Adobe Illustrator. Editing and Optimization: Adobe Photoshop for image editing and optimization, developing font icons (SVG).",
+          es: "Análisis y Herramientas: Análisis UX, creación de mockups, desarrollo de wireframes con Figma, Affinity Designer, Sketch, Adobe Illustrator.Edición y Optimización: Adobe Photoshop para edición y optimización de imágenes, desarrollo de iconos de fuentes (SVG).",
         },
       },
     ],
